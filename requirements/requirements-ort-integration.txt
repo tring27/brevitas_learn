@@ -1,4 +1,0 @@
-onnx
-onnxoptimizer
-onnxruntime>=1.15.0
-qonnx
